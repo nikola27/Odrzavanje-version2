@@ -18,6 +18,6 @@
   <!-- Libraries CSS Files -->
   <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <link href="lib/animate/animate.min.css" rel="stylesheet">
-
+  <link rel="stylesheet"type="text/css" href="css/foundation.css">
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">

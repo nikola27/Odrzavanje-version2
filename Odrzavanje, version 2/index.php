@@ -6,9 +6,10 @@
   </head>
   <body>
       
-    <?php include_once "predlozak/header.php" ?>
+    <?php include_once "predlozak/header-menu.php" ?>
     
     <?php include_once "predlozak/home.php" ?>
+    
 
     <?php include_once "predlozak/footer.php" ?>
 

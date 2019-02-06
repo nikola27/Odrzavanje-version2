@@ -74,6 +74,8 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
+  
+  
   padding: 30px 0;
   height: 92px;
   position: fixed;
@@ -715,3 +717,14 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 13px;
   color: #ccc;
 }
+
+.log-in-form {
+  border: 1px solid #cacaca;
+  padding: 1rem;
+  border-radius: 0;
+
+}
+
+
+
+
